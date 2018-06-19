@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="13772" systemVersion="16G29" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="MenMembers" representedClassName="MenMembers" syncable="YES" codeGenerationType="class">
+        <attribute name="fat" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="muscle" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="number" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="phone" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="ptDate" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="require" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="teacher" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="weight" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="WomenMembers" representedClassName="WomenMembers" syncable="YES" codeGenerationType="class">
+        <attribute name="fat" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="muscle" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="number" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="phone" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="ptDate" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="require" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="teacher" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="weight" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="MenMembers" positionX="-63" positionY="45" width="128" height="180"/>
+        <element name="WomenMembers" positionX="-63" positionY="-18" width="128" height="180"/>
+    </elements>
+</model>
